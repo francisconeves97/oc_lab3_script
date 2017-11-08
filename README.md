@@ -1,0 +1,1 @@
+Script to get values from an output file of one of the programs used in the course of Computer Organization.
